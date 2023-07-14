@@ -3,8 +3,8 @@
 ## Table of contents
 - **[General information](https://github.com/Meritus99/alien-invasion#general-information)**
 - **[Technologies](https://github.com/Meritus99/alien-invasion#technologies)**
-- **[Setup](https://github.com/Meritus99/alien-invasion#setup)**
 - **[Controls](https://github.com/Meritus99/alien-invasion#controls)**
+- **[Setup](https://github.com/Meritus99/alien-invasion#setup)**
 
 ## General information
 Alien invasion is a Python implementation of a retro game using the Pygame library. This game is a classic arcade game in which the player controls a spaceship and fights an alien invasion.
