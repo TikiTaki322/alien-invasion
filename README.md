@@ -37,5 +37,5 @@ To install this repository, follow these steps:
 - Install the necessary packages: 
   - pip install -r requirements.txt
 - Run the game: 
-  - python main_game.py
+  - python3 main_game.py
 - Enjoy and have fun!)
