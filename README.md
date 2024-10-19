@@ -1,10 +1,10 @@
 # Alien invasion
 
 ## Table of contents
-- **[General information](https://github.com/Meritus99/alien-invasion#general-information)**
-- **[Technologies](https://github.com/Meritus99/alien-invasion#technologies)**
-- **[Controls](https://github.com/Meritus99/alien-invasion#controls)**
-- **[Setup](https://github.com/Meritus99/alien-invasion#setup)**
+- **[General information](https://github.com/TikiTaki322/alien-invasion#general-information)**
+- **[Technologies](https://github.com/TikiTaki322/alien-invasion#technologies)**
+- **[Controls](https://github.com/TikiTaki322/alien-invasion#controls)**
+- **[Setup](https://github.com/TikiTaki322/alien-invasion#setup)**
 
 ## General information
 Alien invasion is a Python implementation of a retro game using the Pygame library. This game is a classic arcade game in which the player controls a spaceship and fights an alien invasion.
@@ -31,7 +31,7 @@ To install this repository, follow these steps:
   - for Windows: .\venv\Scripts\activate
   - for Unix: source venv/bin/activate 
 - Clone the repository: 
-  - git clone https://github.com/Meritus99/alien-invasion.git
+  - git clone https://github.com/TikiTaki322/alien-invasion.git
 - Navigate into alien-invasion directory:
   - cd alien-invasion
 - Install the necessary packages: 
